@@ -1,0 +1,159 @@
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\bin\Debug\SistBanco.exe.config
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\SistBanco.csprojResolveAssemblyReference.cache
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\Cajero.Buscar.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\Cajero.Cajero.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\Cajero.DarDeAlta.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\Cajero.InicioSesion.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\Cajero.Modificar.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\SistBanco.Properties.Resources.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\SistBanco.csproj.GenerateResource.Cache
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\bin\Debug\SistBanco.exe
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\bin\Debug\SistBanco.pdb
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\SistBanco.exe
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\SistBanco.pdb
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\Gerente.AsignarForm.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\ATM.ATMForm.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\Gerente.BuscarCuentaForm.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\ATM.ConsultaForm.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\Gerente.DarDeAltaCuentaForm.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\Gerente.GerenteForm.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\Gerente.ModificarCuentaForm.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\SistBanco.NumerosForm.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\ATM.OperacionesForm.resources
+C:\Users\CC-ITH\Desktop\SistBanco\SistBanco\obj\Debug\ATM.PreguntaForm.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\bin\Debug\SistBanco.exe.config
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\bin\Debug\SistBanco.exe
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\bin\Debug\SistBanco.pdb
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\SistBanco.csprojAssemblyReference.cache
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\Gerente.AsignarForm.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\ATM.ATMForm.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\Cajero.Buscar.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\Gerente.BuscarCuentaForm.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\ATM.ConsultaForm.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\Cajero.DarDeAlta.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\Gerente.DarDeAltaCuentaForm.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\Gerente.GerenteForm.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\Cajero.InicioSesion.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\Cajero.Modificar.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\Gerente.ModificarCuentaForm.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\SistBanco.NumerosForm.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\ATM.OperacionesForm.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\ATM.PreguntaForm.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\SistBanco.Properties.Resources.resources
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\SistBanco.csproj.GenerateResource.cache
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\SistBanco.csproj.CoreCompileInputs.cache
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\SistBanco.exe
+F:\PROGRAMACION\TOPICOS\Proyecto BANCO\SistBanco\SistBanco\obj\Debug\SistBanco.pdb
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\bin\Debug\BancoBD.mdb
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\bin\Debug\SistBanco.exe.config
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\bin\Debug\SistBanco.exe
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\bin\Debug\SistBanco.pdb
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\SistBanco.csprojAssemblyReference.cache
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\Gerente.AsignarForm.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\ATM.ATMForm.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\Cajero.Buscar.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\Gerente.BuscarCuentaForm.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\ATM.ConsultaForm.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\Cajero.DarDeAlta.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\Gerente.DarDeAltaCuentaForm.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\Gerente.GerenteForm.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\Cajero.InicioSesion.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\Cajero.Modificar.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\Gerente.ModificarCuentaForm.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\SistBanco.NumerosForm.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\ATM.OperacionesForm.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\ATM.PreguntaForm.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\SistBanco.Properties.Resources.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\SistBanco.csproj.GenerateResource.cache
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\SistBanco.csproj.CoreCompileInputs.cache
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\SistBanco.exe
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\SistBanco.pdb
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\SistBanco.SesionContra.resources
+F:\PROGRAMACION\TOPICOS\SistBanco\SistBanco\obj\Debug\SistBanco.SesionContraAtm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\bin\Debug\BancoBD.mdb
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\bin\Debug\SistBanco.exe.config
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\bin\Debug\SistBanco.exe
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\bin\Debug\SistBanco.pdb
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\SistBanco.csprojAssemblyReference.cache
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\Gerente.AsignarForm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\ATM.ATMForm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\Cajero.Buscar.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\Gerente.BuscarCuentaForm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\ATM.ConsultaForm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\Cajero.DarDeAlta.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\Gerente.DarDeAltaCuentaForm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\Gerente.GerenteForm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\Cajero.InicioSesion.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\Cajero.Modificar.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\Gerente.ModificarCuentaForm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\SistBanco.NumerosForm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\ATM.OperacionesForm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\ATM.PreguntaForm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\SistBanco.Properties.Resources.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\SistBanco.SesionContra.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\SistBanco.SesionContraAtm.resources
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\SistBanco.csproj.GenerateResource.cache
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\SistBanco.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\SistBanco.exe
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\SistBanco.pdb
+C:\Users\Naomi\Pictures\SistBanco\SistBanco\obj\Debug\SistBanco.OperacionesFormDeposito.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\bin\Debug\BancoBD.mdb
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\bin\Debug\SistBanco.exe.config
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\bin\Debug\SistBanco.exe
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\bin\Debug\SistBanco.pdb
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.csprojAssemblyReference.cache
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\Gerente.AsignarForm.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\ATM.ATMForm.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\Cajero.Buscar.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\Gerente.BuscarCuentaForm.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\ATM.ConsultaForm.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\Cajero.DarDeAlta.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\Gerente.DarDeAltaCuentaForm.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\Gerente.GerenteForm.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\Cajero.InicioSesion.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\Cajero.Modificar.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\Gerente.ModificarCuentaForm.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.NumerosForm.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\ATM.OperacionesForm.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.OperacionesFormDeposito.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\ATM.PreguntaForm.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.Properties.Resources.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.SesionContra.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.SesionContraAtm.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.csproj.GenerateResource.cache
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.csproj.CoreCompileInputs.cache
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.exe
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.pdb
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.OperacionesFormRecarga.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.OperacionFormTransferencia.resources
+C:\Users\Cindy XD\Downloads\esta\SistBanco\SistBanco\obj\Debug\SistBanco.PreguntaForm1.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\bin\Debug\BancoBD.mdb
+C:\Users\Naomi\Documents\SistBanco\SistBanco\bin\Debug\SistBanco.exe.config
+C:\Users\Naomi\Documents\SistBanco\SistBanco\bin\Debug\SistBanco.exe
+C:\Users\Naomi\Documents\SistBanco\SistBanco\bin\Debug\SistBanco.pdb
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.csprojAssemblyReference.cache
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\Gerente.AsignarForm.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\ATM.ATMForm.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\Cajero.Buscar.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\Gerente.BuscarCuentaForm.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\ATM.ConsultaForm.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\Cajero.DarDeAlta.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\Gerente.DarDeAltaCuentaForm.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\Gerente.GerenteForm.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\Cajero.InicioSesion.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\Cajero.Modificar.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\Gerente.ModificarCuentaForm.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.NumerosForm.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\ATM.OperacionesForm.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.OperacionesFormDeposito.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.OperacionesFormRecarga.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.OperacionFormTransferencia.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\ATM.PreguntaForm.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.PreguntaForm1.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.Properties.Resources.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.SesionContra.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.SesionContraAtm.resources
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.csproj.GenerateResource.cache
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.exe
+C:\Users\Naomi\Documents\SistBanco\SistBanco\obj\Debug\SistBanco.pdb
